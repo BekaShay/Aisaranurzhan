@@ -1,8 +1,8 @@
 //
 //  dummy.swift
-//  Educenter
+//  Aisaranurzhan
 //
-//  Created by Mac on 20.07.2022.
+//  Created by user on 02.05.2023.
 //
 
 import Foundation

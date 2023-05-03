@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>784038313958-qt150vr5q8kg58mh6litujllvvpjsj4v.apps.googleusercontent.com</string>
+	<string>602173817794-8kugk6n1f58rmam9sl3sv18vi7dt2nnn.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.784038313958-qt150vr5q8kg58mh6litujllvvpjsj4v</string>
+	<string>com.googleusercontent.apps.602173817794-8kugk6n1f58rmam9sl3sv18vi7dt2nnn</string>
 	<key>API_KEY</key>
-	<string>AIzaSyCQuAHK3poX-QizLIkL-syQYBKmdj6ZsgI</string>
+	<string>AIzaSyBbMpYBbkeTLujcJh1SwJ61eFlfSs1gTe0</string>
 	<key>GCM_SENDER_ID</key>
-	<string>784038313958</string>
+	<string>602173817794</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>kz.buginsoft.educenter</string>
+	<string>kz.educenter.aisaranurzhan</string>
 	<key>PROJECT_ID</key>
-	<string>educenter-c3080</string>
+	<string>educenter-standart-5</string>
 	<key>STORAGE_BUCKET</key>
-	<string>educenter-c3080.appspot.com</string>
+	<string>educenter-standart-5.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:784038313958:ios:cc0a0db67281aa5dc22027</string>
+	<string>1:602173817794:ios:ab3c5410600606e72f0c5b</string>
 </dict>
 </plist>

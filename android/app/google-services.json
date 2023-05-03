@@ -1,40 +1,40 @@
 {
   "project_info": {
-    "project_number": "784038313958",
-    "project_id": "educenter-c3080",
-    "storage_bucket": "educenter-c3080.appspot.com"
+    "project_number": "602173817794",
+    "project_id": "educenter-standart-5",
+    "storage_bucket": "educenter-standart-5.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:784038313958:android:e51a284cf5678fc2c22027",
+        "mobilesdk_app_id": "1:602173817794:android:03d364d65c51a8b52f0c5b",
         "android_client_info": {
-          "package_name": "com.buginsoft.educenter"
+          "package_name": "com.educenter.aidanaalvii"
         }
       },
       "oauth_client": [
         {
-          "client_id": "784038313958-p8fkib92u0qfq46gi28g6uk5g7f9afm7.apps.googleusercontent.com",
+          "client_id": "602173817794-ejvdi1rl9cjh3opvdffbqlopj8okggk9.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBvMCyyqsCYZKU7OmJmKPSUd0wLvuGYKZU"
+          "current_key": "AIzaSyDsASYLMgMy8lR6roLXvV0h4Gp48nyzVvU"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "784038313958-p8fkib92u0qfq46gi28g6uk5g7f9afm7.apps.googleusercontent.com",
+              "client_id": "602173817794-ejvdi1rl9cjh3opvdffbqlopj8okggk9.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "784038313958-0crkv874vkd2gt9skpk2r8iirurussk3.apps.googleusercontent.com",
+              "client_id": "602173817794-45a7eo8c4i8nkspdarvrjit5doanfhfs.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "kz.educenter.gulzhannat"
+                "bundle_id": "kz.educenter.onlinespmrk"
               }
             }
           ]
@@ -43,34 +43,34 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:784038313958:android:daa733ecb901b3cbc22027",
+        "mobilesdk_app_id": "1:602173817794:android:aeb5a15bd7b21bdf2f0c5b",
         "android_client_info": {
-          "package_name": "com.educenter.access"
+          "package_name": "com.educenter.aisaranurzhan"
         }
       },
       "oauth_client": [
         {
-          "client_id": "784038313958-p8fkib92u0qfq46gi28g6uk5g7f9afm7.apps.googleusercontent.com",
+          "client_id": "602173817794-ejvdi1rl9cjh3opvdffbqlopj8okggk9.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBvMCyyqsCYZKU7OmJmKPSUd0wLvuGYKZU"
+          "current_key": "AIzaSyDsASYLMgMy8lR6roLXvV0h4Gp48nyzVvU"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "784038313958-p8fkib92u0qfq46gi28g6uk5g7f9afm7.apps.googleusercontent.com",
+              "client_id": "602173817794-ejvdi1rl9cjh3opvdffbqlopj8okggk9.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "784038313958-0crkv874vkd2gt9skpk2r8iirurussk3.apps.googleusercontent.com",
+              "client_id": "602173817794-45a7eo8c4i8nkspdarvrjit5doanfhfs.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "kz.educenter.gulzhannat"
+                "bundle_id": "kz.educenter.onlinespmrk"
               }
             }
           ]
@@ -79,34 +79,34 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:784038313958:android:2454ad034972df75c22027",
+        "mobilesdk_app_id": "1:602173817794:android:a1b4222bd58fb4822f0c5b",
         "android_client_info": {
-          "package_name": "com.educenter.altynkopir"
+          "package_name": "com.educenter.gazremontservice"
         }
       },
       "oauth_client": [
         {
-          "client_id": "784038313958-p8fkib92u0qfq46gi28g6uk5g7f9afm7.apps.googleusercontent.com",
+          "client_id": "602173817794-ejvdi1rl9cjh3opvdffbqlopj8okggk9.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBvMCyyqsCYZKU7OmJmKPSUd0wLvuGYKZU"
+          "current_key": "AIzaSyDsASYLMgMy8lR6roLXvV0h4Gp48nyzVvU"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "784038313958-p8fkib92u0qfq46gi28g6uk5g7f9afm7.apps.googleusercontent.com",
+              "client_id": "602173817794-ejvdi1rl9cjh3opvdffbqlopj8okggk9.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "784038313958-0crkv874vkd2gt9skpk2r8iirurussk3.apps.googleusercontent.com",
+              "client_id": "602173817794-45a7eo8c4i8nkspdarvrjit5doanfhfs.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "kz.educenter.gulzhannat"
+                "bundle_id": "kz.educenter.onlinespmrk"
               }
             }
           ]
@@ -115,34 +115,34 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:784038313958:android:ca9c55e871b5ea8cc22027",
+        "mobilesdk_app_id": "1:602173817794:android:da3ca5dd37cf7fcf2f0c5b",
         "android_client_info": {
-          "package_name": "com.educenter.balzere"
+          "package_name": "com.educenter.islamapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "784038313958-p8fkib92u0qfq46gi28g6uk5g7f9afm7.apps.googleusercontent.com",
+          "client_id": "602173817794-ejvdi1rl9cjh3opvdffbqlopj8okggk9.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBvMCyyqsCYZKU7OmJmKPSUd0wLvuGYKZU"
+          "current_key": "AIzaSyDsASYLMgMy8lR6roLXvV0h4Gp48nyzVvU"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "784038313958-p8fkib92u0qfq46gi28g6uk5g7f9afm7.apps.googleusercontent.com",
+              "client_id": "602173817794-ejvdi1rl9cjh3opvdffbqlopj8okggk9.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "784038313958-0crkv874vkd2gt9skpk2r8iirurussk3.apps.googleusercontent.com",
+              "client_id": "602173817794-45a7eo8c4i8nkspdarvrjit5doanfhfs.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "kz.educenter.gulzhannat"
+                "bundle_id": "kz.educenter.onlinespmrk"
               }
             }
           ]
@@ -151,34 +151,34 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:784038313958:android:428fa222166b60cfc22027",
+        "mobilesdk_app_id": "1:602173817794:android:c9b06d8e4a66527e2f0c5b",
         "android_client_info": {
-          "package_name": "com.educenter.beles"
+          "package_name": "com.educenter.mugalimonline"
         }
       },
       "oauth_client": [
         {
-          "client_id": "784038313958-p8fkib92u0qfq46gi28g6uk5g7f9afm7.apps.googleusercontent.com",
+          "client_id": "602173817794-ejvdi1rl9cjh3opvdffbqlopj8okggk9.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBvMCyyqsCYZKU7OmJmKPSUd0wLvuGYKZU"
+          "current_key": "AIzaSyDsASYLMgMy8lR6roLXvV0h4Gp48nyzVvU"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "784038313958-p8fkib92u0qfq46gi28g6uk5g7f9afm7.apps.googleusercontent.com",
+              "client_id": "602173817794-ejvdi1rl9cjh3opvdffbqlopj8okggk9.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "784038313958-0crkv874vkd2gt9skpk2r8iirurussk3.apps.googleusercontent.com",
+              "client_id": "602173817794-45a7eo8c4i8nkspdarvrjit5doanfhfs.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "kz.educenter.gulzhannat"
+                "bundle_id": "kz.educenter.onlinespmrk"
               }
             }
           ]
@@ -187,34 +187,34 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:784038313958:android:279fda56c14d2e81c22027",
+        "mobilesdk_app_id": "1:602173817794:android:ec6165daebfa493e2f0c5b",
         "android_client_info": {
-          "package_name": "com.educenter.chessstar"
+          "package_name": "com.educenter.onlinespmrk"
         }
       },
       "oauth_client": [
         {
-          "client_id": "784038313958-p8fkib92u0qfq46gi28g6uk5g7f9afm7.apps.googleusercontent.com",
+          "client_id": "602173817794-ejvdi1rl9cjh3opvdffbqlopj8okggk9.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBvMCyyqsCYZKU7OmJmKPSUd0wLvuGYKZU"
+          "current_key": "AIzaSyDsASYLMgMy8lR6roLXvV0h4Gp48nyzVvU"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "784038313958-p8fkib92u0qfq46gi28g6uk5g7f9afm7.apps.googleusercontent.com",
+              "client_id": "602173817794-ejvdi1rl9cjh3opvdffbqlopj8okggk9.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "784038313958-0crkv874vkd2gt9skpk2r8iirurussk3.apps.googleusercontent.com",
+              "client_id": "602173817794-45a7eo8c4i8nkspdarvrjit5doanfhfs.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "kz.educenter.gulzhannat"
+                "bundle_id": "kz.educenter.onlinespmrk"
               }
             }
           ]
@@ -223,34 +223,34 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:784038313958:android:03f1c3e4f6d41596c22027",
+        "mobilesdk_app_id": "1:602173817794:android:31ccfd199e8306832f0c5b",
         "android_client_info": {
-          "package_name": "com.educenter.damuonline"
+          "package_name": "com.educenter.sebeptinukte"
         }
       },
       "oauth_client": [
         {
-          "client_id": "784038313958-p8fkib92u0qfq46gi28g6uk5g7f9afm7.apps.googleusercontent.com",
+          "client_id": "602173817794-ejvdi1rl9cjh3opvdffbqlopj8okggk9.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBvMCyyqsCYZKU7OmJmKPSUd0wLvuGYKZU"
+          "current_key": "AIzaSyDsASYLMgMy8lR6roLXvV0h4Gp48nyzVvU"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "784038313958-p8fkib92u0qfq46gi28g6uk5g7f9afm7.apps.googleusercontent.com",
+              "client_id": "602173817794-ejvdi1rl9cjh3opvdffbqlopj8okggk9.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "784038313958-0crkv874vkd2gt9skpk2r8iirurussk3.apps.googleusercontent.com",
+              "client_id": "602173817794-45a7eo8c4i8nkspdarvrjit5doanfhfs.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "kz.educenter.gulzhannat"
+                "bundle_id": "kz.educenter.onlinespmrk"
               }
             }
           ]
@@ -259,34 +259,34 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:784038313958:android:6f09fd68e3cbc38bc22027",
+        "mobilesdk_app_id": "1:602173817794:android:9d46b3ca3606658c2f0c5b",
         "android_client_info": {
-          "package_name": "com.educenter.dara"
+          "package_name": "com.educenter.sonexonline"
         }
       },
       "oauth_client": [
         {
-          "client_id": "784038313958-p8fkib92u0qfq46gi28g6uk5g7f9afm7.apps.googleusercontent.com",
+          "client_id": "602173817794-ejvdi1rl9cjh3opvdffbqlopj8okggk9.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBvMCyyqsCYZKU7OmJmKPSUd0wLvuGYKZU"
+          "current_key": "AIzaSyDsASYLMgMy8lR6roLXvV0h4Gp48nyzVvU"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "784038313958-p8fkib92u0qfq46gi28g6uk5g7f9afm7.apps.googleusercontent.com",
+              "client_id": "602173817794-ejvdi1rl9cjh3opvdffbqlopj8okggk9.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "784038313958-0crkv874vkd2gt9skpk2r8iirurussk3.apps.googleusercontent.com",
+              "client_id": "602173817794-45a7eo8c4i8nkspdarvrjit5doanfhfs.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "kz.educenter.gulzhannat"
+                "bundle_id": "kz.educenter.onlinespmrk"
               }
             }
           ]
@@ -295,34 +295,34 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:784038313958:android:3a4cd5d4737dcc91c22027",
+        "mobilesdk_app_id": "1:602173817794:android:d3f78ab13559993c2f0c5b",
         "android_client_info": {
-          "package_name": "com.educenter.dinarasatzhan"
+          "package_name": "com.educenter.ufirst"
         }
       },
       "oauth_client": [
         {
-          "client_id": "784038313958-p8fkib92u0qfq46gi28g6uk5g7f9afm7.apps.googleusercontent.com",
+          "client_id": "602173817794-ejvdi1rl9cjh3opvdffbqlopj8okggk9.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBvMCyyqsCYZKU7OmJmKPSUd0wLvuGYKZU"
+          "current_key": "AIzaSyDsASYLMgMy8lR6roLXvV0h4Gp48nyzVvU"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "784038313958-p8fkib92u0qfq46gi28g6uk5g7f9afm7.apps.googleusercontent.com",
+              "client_id": "602173817794-ejvdi1rl9cjh3opvdffbqlopj8okggk9.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "784038313958-0crkv874vkd2gt9skpk2r8iirurussk3.apps.googleusercontent.com",
+              "client_id": "602173817794-45a7eo8c4i8nkspdarvrjit5doanfhfs.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "kz.educenter.gulzhannat"
+                "bundle_id": "kz.educenter.onlinespmrk"
               }
             }
           ]
@@ -331,34 +331,34 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:784038313958:android:0a33ab58ca5c88d6c22027",
+        "mobilesdk_app_id": "1:602173817794:android:674be747622ee2fb2f0c5b",
         "android_client_info": {
-          "package_name": "com.educenter.erkinstudy"
+          "package_name": "com.educenter.ummanamaz"
         }
       },
       "oauth_client": [
         {
-          "client_id": "784038313958-p8fkib92u0qfq46gi28g6uk5g7f9afm7.apps.googleusercontent.com",
+          "client_id": "602173817794-ejvdi1rl9cjh3opvdffbqlopj8okggk9.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBvMCyyqsCYZKU7OmJmKPSUd0wLvuGYKZU"
+          "current_key": "AIzaSyDsASYLMgMy8lR6roLXvV0h4Gp48nyzVvU"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "784038313958-p8fkib92u0qfq46gi28g6uk5g7f9afm7.apps.googleusercontent.com",
+              "client_id": "602173817794-ejvdi1rl9cjh3opvdffbqlopj8okggk9.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "784038313958-0crkv874vkd2gt9skpk2r8iirurussk3.apps.googleusercontent.com",
+              "client_id": "602173817794-45a7eo8c4i8nkspdarvrjit5doanfhfs.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "kz.educenter.gulzhannat"
+                "bundle_id": "kz.educenter.onlinespmrk"
               }
             }
           ]
@@ -367,178 +367,34 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:784038313958:android:26c7f3849c3deeadc22027",
+        "mobilesdk_app_id": "1:602173817794:android:da14d6d804059b152f0c5b",
         "android_client_info": {
-          "package_name": "com.educenter.infobiz"
+          "package_name": "com.educenter.unidemonline"
         }
       },
       "oauth_client": [
         {
-          "client_id": "784038313958-p8fkib92u0qfq46gi28g6uk5g7f9afm7.apps.googleusercontent.com",
+          "client_id": "602173817794-ejvdi1rl9cjh3opvdffbqlopj8okggk9.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBvMCyyqsCYZKU7OmJmKPSUd0wLvuGYKZU"
+          "current_key": "AIzaSyDsASYLMgMy8lR6roLXvV0h4Gp48nyzVvU"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "784038313958-p8fkib92u0qfq46gi28g6uk5g7f9afm7.apps.googleusercontent.com",
+              "client_id": "602173817794-ejvdi1rl9cjh3opvdffbqlopj8okggk9.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "784038313958-0crkv874vkd2gt9skpk2r8iirurussk3.apps.googleusercontent.com",
+              "client_id": "602173817794-45a7eo8c4i8nkspdarvrjit5doanfhfs.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "kz.educenter.gulzhannat"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:784038313958:android:af471ed5aa17ba59c22027",
-        "android_client_info": {
-          "package_name": "com.educenter.mobarmy"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "784038313958-p8fkib92u0qfq46gi28g6uk5g7f9afm7.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBvMCyyqsCYZKU7OmJmKPSUd0wLvuGYKZU"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "784038313958-p8fkib92u0qfq46gi28g6uk5g7f9afm7.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "784038313958-0crkv874vkd2gt9skpk2r8iirurussk3.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "kz.educenter.gulzhannat"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:784038313958:android:2badf3fcc58a8d58c22027",
-        "android_client_info": {
-          "package_name": "com.educenter.rizqstudy"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "784038313958-p8fkib92u0qfq46gi28g6uk5g7f9afm7.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBvMCyyqsCYZKU7OmJmKPSUd0wLvuGYKZU"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "784038313958-p8fkib92u0qfq46gi28g6uk5g7f9afm7.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "784038313958-0crkv874vkd2gt9skpk2r8iirurussk3.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "kz.educenter.gulzhannat"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:784038313958:android:ae9c30065998d7f4c22027",
-        "android_client_info": {
-          "package_name": "com.educenter.speakup"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "784038313958-p8fkib92u0qfq46gi28g6uk5g7f9afm7.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBvMCyyqsCYZKU7OmJmKPSUd0wLvuGYKZU"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "784038313958-p8fkib92u0qfq46gi28g6uk5g7f9afm7.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "784038313958-0crkv874vkd2gt9skpk2r8iirurussk3.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "kz.educenter.gulzhannat"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:784038313958:android:d30ec85276e440ccc22027",
-        "android_client_info": {
-          "package_name": "com.educenter.visual"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "784038313958-p8fkib92u0qfq46gi28g6uk5g7f9afm7.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBvMCyyqsCYZKU7OmJmKPSUd0wLvuGYKZU"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "784038313958-p8fkib92u0qfq46gi28g6uk5g7f9afm7.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "784038313958-0crkv874vkd2gt9skpk2r8iirurussk3.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "kz.educenter.gulzhannat"
+                "bundle_id": "kz.educenter.onlinespmrk"
               }
             }
           ]

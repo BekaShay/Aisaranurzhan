@@ -6,7 +6,7 @@ platform :ios, '11.0'
 # use_frameworks! :linkage => :static
 install! 'cocoapods', :deterministic_uuids => false
 
-target 'Educenter' do
+target 'Aisaranurzhan' do
 
   config = use_native_modules!
 
@@ -28,7 +28,7 @@ target 'Educenter' do
     :app_path => "#{Pod::Config.instance.installation_root}/.."
   )
 
-  target 'EducenterTests' do
+  target 'AisaranurzhanTests' do
     inherit! :complete
     # Pods for testing
   end
